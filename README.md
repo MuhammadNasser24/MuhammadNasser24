@@ -1,8 +1,7 @@
+
 ### Hi there 👋, I'm MUHAMMAD NASSER
 #### A passionate DevOps Engineer from Egypt
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
-
+![giphy](https://github.com/MuhammadNasser24/MuhammadNasser24/assets/121057828/e4787303-ddd0-4636-9743-69537648fa74)
 # About Me 
 <b>
 I completed my studies in CCNA and MCSA and worked as an IT help desk before enrolling in a DevOps Bootcamp with Sprints AI Company.
