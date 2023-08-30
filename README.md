@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm MUHAMMAD NASSER
 #### A passionate DevOps Engineer from Egypt
-![A passionate DevOps Engineer from Egypt](<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>)
+[![A passionate DevOps Engineer from Egypt](<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>)]
 
-# About Me
+# About Me 
+<b>
 I completed my studies in CCNA and MCSA and worked as an IT help desk before enrolling in a DevOps Bootcamp with Sprints AI Company.
 I have gained experience in various DevOps tools, and I am interested in shifting my career focus to DevOps engineering.
 I am interested in exploring opportunities in various IT fields and have enrolled in a DevOps BootCamp to pursue this transition.
