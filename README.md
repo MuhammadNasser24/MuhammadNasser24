@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm MUHAMMAD NASSER
 #### A passionate DevOps Engineer from Egypt
 
-[<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="gifs">}
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 # About Me 
 <b>
@@ -18,8 +18,6 @@ Skills: Docker / Kubernetes  /Terraform /AWS /Ansible /Jenkins /Linux
 - 👯 I’m looking to collaborate on DevOps projects 
 - 📫 How to reach me: Mohamed.nhassan20@gmail.com 
 
-
-<div <img="" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="gifs" >=""></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNasser24)](https://github.com/anuraghazra/github-readme-stats)
 
