@@ -1,4 +1,4 @@
-![image](https://github.com/MuhammadNasser24/MuhammadNasser24/assets/121057828/08deabcf-10e0-4972-9d3c-1acf180a34b9)<h1 align="center">Hi 👋, I'm Muhammad Nasser</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Nasser</h1>
 <h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 <p align="center">
   <img src="https://github.com/MuhammadNasser24/MuhammadNasser24/assets/121057828/8f90189d-c8a6-485c-86bc-25f0e8db7e8f" alt="Animated GIF" width="600" height="400">
