@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnasser24&label=Profile%20views&color=04000a&style=plastic" alt="muhammadnasser24" /> </p>
 
-- 🔭 I’m currently working on **Automation Project**
+- 🔭 I’m currently working on **Automation Projects**
 
 
 - 🌱 I’m currently learning **DevOps new tools**
